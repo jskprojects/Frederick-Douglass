@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Frederick-Douglass/static/css/main.5f11e1a2.css",
+    "main.js": "/Frederick-Douglass/static/js/main.693d100f.js",
+    "static/js/112.fbd4a4d9.chunk.js": "/Frederick-Douglass/static/js/112.fbd4a4d9.chunk.js",
+    "static/media/background.png": "/Frederick-Douglass/static/media/background.71ea7d3c61446c652a09.png",
+    "index.html": "/Frederick-Douglass/index.html",
+    "main.5f11e1a2.css.map": "/Frederick-Douglass/static/css/main.5f11e1a2.css.map",
+    "main.693d100f.js.map": "/Frederick-Douglass/static/js/main.693d100f.js.map",
+    "112.fbd4a4d9.chunk.js.map": "/Frederick-Douglass/static/js/112.fbd4a4d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f11e1a2.css",
+    "static/js/main.693d100f.js"
+  ]
+}
